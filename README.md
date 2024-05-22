@@ -7,7 +7,7 @@ JOIN MY DISCORD FOR MORE INFO // & // WHEN THE FILES WILL BE POSTED/UPDATED HERE
 @CF \
 @Dabs Framework \
 @Community-Online-Tools \
-@JacksWinterChernarusObjects \
+@JacksWinterChernarusObjects --  <!> EVERYTHING HERE IS FREE TO REPACK- CREDTS ARE UNDER THIS MOD. <!> \
 @DayZ Editor Loader \
 @DayZ-Expansion-Licensed \
 @DayZ-Expansion-Bundle \
