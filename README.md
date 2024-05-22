@@ -4,7 +4,7 @@ JOIN MY DISCORD FOR MORE INFO // & // WHEN THE FILES WILL BE POSTED/UPDATED HERE
 
 
 # MOD LIST:
-@CF
+@CF n/
 @Dabs Framework
 @Community-Online-Tools
 @JacksWinterChernarusObjects
